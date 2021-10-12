@@ -20,8 +20,8 @@ Advanced level:\
 • Part E: kinematics of a moving object: linear and angular velocities and acceleration\
 
 There will be 4 exercises in this module and one final project: \
-Exercise 1: Virtual rotation of a camera
-Exercise 2: 3D surface reconstruction 
-Exercise 3: Keypoint detection and matching
-Exercise 4: 3D surface mesh manipulation
+Exercise 1: Virtual rotation of a camera\
+Exercise 2: 3D surface reconstruction \
+Exercise 3: Keypoint detection and matching\
+Exercise 4: 3D surface mesh manipulation\
 Project: 3D Computer vision Application for QUANTITATIVE ASSESSMENT OF ACL INJURY
